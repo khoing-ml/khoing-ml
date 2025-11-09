@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khoi Nguyen</h1>
-<h3 align="center">Harnessing Machine Learning to solve real-world problems.</h3>
+<h3 align="center">Generative Models research student.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
